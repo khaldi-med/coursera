@@ -20,7 +20,7 @@
 * cal
 * date
 * Conditional Execution - Chain commands using && to execute next command only if first succeeds: `ls file && echo "File exists`
-
+* !!
 
 ## Disk usg / file szi ----------------------     
 
