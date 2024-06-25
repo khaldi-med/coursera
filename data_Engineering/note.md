@@ -1,20 +1,20 @@
-## General ----------------------
+##General 
 
 * Export - Makes a variable available across shell sessions and to child processes. Used to expose things like API keys.
---> /export DB_PASSWORD='mysecurepass/
+> /export DB_PASSWORD='mysecurepass/
 
 * Find - A Linux command to search for files/folders in real-time based on various criteria. More exhaustive than locate.
---> /find . -name "*.py"
+> /find . -name "*.py"
 
 * amazon console, cloud9, "aws s3 ls"
 
 
-## Docker ----------------------
+##Docker 
 * docker ps to show what's runing
 * docker ru it "img" 
 
 
-## Shell ----------------------
+##Shell 
 * "alias"
 * "source ~./bashrc" to realod the new things in the file.
 * cal
@@ -22,10 +22,17 @@
 * Conditional Execution - Chain commands using && to execute next command only if first succeeds: `ls file && echo "File exists`
 * !!
 
-## Disk usg / file szi ----------------------     
-
+##Disk usg / file szie 
 * df -h 
 * du -sh *
 * jobs to see what's run in the background
 * fg 1 .
+
+
+##VIM 
+* :set paste
+* 
+
+
+
 
