@@ -114,3 +114,14 @@ InternalError
 
 URIError
 
+
+```
+try{
+    throw new ReferenceError();
+    }
+catch(err){
+    console.log("Error!", err)
+}
+
+```
+
