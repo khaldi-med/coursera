@@ -102,4 +102,75 @@ C. PMI Knowledge Areas
         3. New seating
         4. New parking lot
         5. New scoreboard
+####1.4 Stakeholder Analysis
+ - A. Purpose: Systematically gather and analyze information about stakeholders
+ - B. Importance: Helps project managers anticipate and address stakeholder concerns
+
+* II. Stakeholder Analysis Matrix
+    - A. Tool to visualize stakeholder power and interest
+    - B. Four quadrants: High/Low Power, High/Low Interest
+    - C. Helps determine how to engage with different stakeholders
+
+* III. Example: Homeowners near stadium
+    - A. Why they're stakeholders: Affected by traffic, noise, etc.
+    - B. Power/Interest: High interest, potentially high power as a group
+    - C. Engagement strategies:
+        1. Involve them and get their input
+        2. Address their concerns
+        3. Provide regular status reports
+        4. Possible incentives (e.g., parking revenue, complimentary tickets)
+
+* IV. Example: University President
+    - A. Why they're a stakeholder: Oversight, university reputation, etc.
+    - B. Power/Interest: High power, high interest
+    - C. Engagement strategies:
+        1. Provide constant information
+        2. Regular status reports (e.g., weekly)
+        3. Determine appropriate communication method (direct meetings vs. reports)
+
+###WBS 
+    - A **work-breakdown structure (WBS)** in project management and systems engineering is a deliverable-oriented breakdown of a project into smaller components. 
+A work breakdown structure is a key project management element that organizes the team's work into manageable sections. 
+The Project Management Body of Knowledge defines the work-breakdown structure as a "hierarchical decomposition of the total scope of work to be carried out by the project team to accomplish the project objectives and create the required deliverables.
+
+A WBS provides the necessary framework for detailed cost estimation and control while providing guidance for schedule development and control.
+
+####2.1 Planning
+
+I. Introduction to Risk Management
+A. Part of the planning process group
+B. Focuses on identifying and addressing potential project issues
+
+II. Definition of Risk
+A. Uncertain events that may or may not happen
+B. Can be positive or negative (focus on negative risks)
+
+III. Four Steps of Risk Management
+A. Identify risks
+B. Analyze risks
+C. Develop risk management plans
+D. Implement plans when necessary
+
+IV. Risk Analysis Components
+A. Impact: How severe the consequences would be
+B. Probability: How likely the risk is to occur
+C. Triggers: Signs that indicate a risk is imminent or has occurred
+
+V. Risk Response Strategies
+A. Mitigation: Reduce the impact or probability
+B. Transfer: Shift the risk to another party
+C. Avoidance: Change the project to eliminate the risk
+D. Acceptance: Prepare for the risk but take no preemptive action
+
+VI. Risk Assessment Tool
+A. Risk matrix with impact and probability scored 1-5
+B. Total risk score = Impact x Probability (max 25)
+C. Determine acceptable risk levels for the organization
+D. Develop strategies to reduce high-risk scores
+E. Include a separate list of triggers for each risk
+
+VII. Example: Agricultural Project and Elephant Risk
+A. Demonstrates how context affects probability
+B. Illustrates different risk response strategies based on ability to predict (triggers)
+
 
