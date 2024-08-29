@@ -19,11 +19,7 @@
 
 * Tips:
 	- Make sure to add your columns to row elements.
-
 	- Remember that Bootstrap uses a 12 column grid system.
-
-	- Review the lessons Using Bootstrap Styles and Bootstrap Grid
-
 
 *  A **SPA** has two approaches to serving code and resources. The first is called **bundling**, and the second approach is known as **lazy loading** or **code splitting**. With bundling, when the browser requests the application, the server returns and loads all necessary HTML, CSS, and JavaScript immediately. With lazy loading, the browser requests the application and the server returns only the minimum HTML, CSS, and JavaScript needed to load the application.
 
@@ -33,8 +29,6 @@
 
 * React Fiber Architecture.
 * React is a library and not a framework. 
-
-####
 
 ```
 var arrOfKeys = ['speed', 'altitude', 'color'];
