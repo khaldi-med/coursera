@@ -88,7 +88,7 @@ Trigonometric methods: Math.sin(), Math.cos(), Math.tan(), etc.
 
 * The lastIndexOf finds the last match, otherwise it works the same as indexOf.
 
-* Here are some of the most common errors in JavaScript: 
+#### Here are some of the most common errors in JavaScript: 
 
 ReferenceError 
 
@@ -119,3 +119,6 @@ catch(err){
 
 ```
 
+#### Functional programming
+    
+* 
