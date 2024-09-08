@@ -123,10 +123,10 @@ D. Total scope
         3. Determine appropriate communication method (direct meetings vs. reports)
 
 ### WBS 
-    - A **work-breakdown structure (WBS)** in project management and systems engineering is a deliverable-oriented breakdown of a project into smaller components. 
-    * A work breakdown structure is a key project management element that organizes the team's work into manageable sections. 
+- A **work-breakdown structure (WBS)** in project management and systems engineering is a deliverable-oriented breakdown of a project into smaller components. 
+* A work breakdown structure is a key project management element that organizes the team's work into manageable sections. 
 The Project Management Body of Knowledge defines the work-breakdown structure as a "hierarchical decomposition of the total scope of work to be carried out by the project team to accomplish the project objectives and create the required deliverables.
-    * A WBS provides the necessary framework for detailed cost estimation and control while providing guidance for schedule development and control.
+* A WBS provides the necessary framework for detailed cost estimation and control while providing guidance for schedule development and control.
 
 #### 2.1 Planning
 
