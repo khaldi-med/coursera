@@ -1,12 +1,12 @@
 ### Fundamental project management
 
-####1.1 What is Project
+#### 1.1 What is Project
 
 * It clarifies the definitions of three key terms: project, project manager, and project management. 
     * A project is a temporary undertaking with a specific goal, interrelated tasks, and a finite duration. It is unique and operates under certain constraints. In contrast, ongoing work processes are repetitive tasks that occur regularly in an organization. 
     * Project management involves the tools and processes used to plan, execute, and complete projects. The four main constraints in project management are scope, quality, cost, and time. These constraints determine the size, quality, cost, and duration of a project. Additionally, the Project Management Institute includes two additional constraints: risk and resources. If any of these constraints change during a project, adjustments must be made to maintain balance.
 
-####1.2 Scope and project management:
+#### 1.2 Scope and project management:
 
 * I. Scope:
 
@@ -26,48 +26,42 @@ D. Total scope
     - Combination of product scope and project scope
     - Includes all work and resources needed
 
-    II. Project Definition
-A. PMI definition: "A temporary endeavor undertaken to create a unique product, service or result"
+* II. Project Definition
+    - A. PMI definition: "A temporary endeavor undertaken to create a unique product, service or result"
+* III. Project Manager Skills
+    * A. Technical knowledge
+        - Not a subject matter expert on everything
+        - Enough knowledge to understand project language and processes
+    * B. Leadership skills
+        - Ability to work with people
+        - Lead the project team
+    * C. Various roles
+        1. Task and human management
+        2. Integrator vs. technical expert
+        3. Big picture and detail focus
+        4. Politics and stakeholder management
+        5. Balancing projects vs. organizational functions
+* IV. Project Management
+    - A. Definition: Application of knowledge, skills, tools, and techniques to project activities
+    - B. PMI Process Groups
+        1. Initiating
+        2. Planning
+        3. Executing
+        4. Monitoring and Controlling
+        5. Closing
+    * C. PMI Knowledge Areas
+        1. Integration
+        2. Scope
+        3. Time
+        4. Cost
+        5. Quality
+        6. Human Resources
+        7. Communication
+        8. Risk
+        9. Procurement
+        10. Stakeholder Management
 
-    III. Project Manager Skills
-A. Technical knowledge
-    - Not a subject matter expert on everything
-    - Enough knowledge to understand project language and processes
-
-B. Leadership skills
-    - Ability to work with people
-    - Lead the project team
-
- C. Various roles
-    1. Task and human management
-    2. Integrator vs. technical expert
-    3. Big picture and detail focus
-    4. Politics and stakeholder management
-    5. Balancing projects vs. organizational functions
-
-    IV. Project Management
-A. Definition: Application of knowledge, skills, tools, and techniques to project activities
-
-B. PMI Process Groups
-   1. Initiating
-   2. Planning
-   3. Executing
-   4. Monitoring and Controlling
-   5. Closing
-
-C. PMI Knowledge Areas
-   1. Integration
-   2. Scope
-   3. Time
-   4. Cost
-   5. Quality
-   6. Human Resources
-   7. Communication
-   8. Risk
-   9. Procurement
-   10. Stakeholder Management
-
-####1.3 Planning and Scheduling
+#### 1.3 Planning and Scheduling
 
 - I. Initiating Process Group
     * A. Purpose: Starting and defining the project
@@ -102,9 +96,9 @@ C. PMI Knowledge Areas
         3. New seating
         4. New parking lot
         5. New scoreboard
-####1.4 Stakeholder Analysis
- - A. Purpose: Systematically gather and analyze information about stakeholders
- - B. Importance: Helps project managers anticipate and address stakeholder concerns
+#### 1.4 Stakeholder Analysis
+- A. Purpose: Systematically gather and analyze information about stakeholders
+- B. Importance: Helps project managers anticipate and address stakeholder concerns
 
 * II. Stakeholder Analysis Matrix
     - A. Tool to visualize stakeholder power and interest
@@ -179,10 +173,10 @@ The Project Management Body of Knowledge defines the work-breakdown structure as
 
 * Purpose of WBS
     - Foundation for Planning: WBS is essential for:
-    - Defining tasks and deliverables.
-    - Estimating costs and resources.
-    - Facilitating communication within the project team.
-    - Task Organization: It breaks down the project into manageable sections, from high-level deliverables to detailed tasks.
+        - Defining tasks and deliverables.
+        - Estimating costs and resources.
+        - Facilitating communication within the project team.
+        - Task Organization: It breaks down the project into manageable sections, from high-level deliverables to detailed tasks.
 
 * Schools of Thought on WBS
     - High-Level Only: Some advocate for a WBS that includes only deliverables and work packages, with detailed tasks listed in a separate WBS dictionary or task list.
