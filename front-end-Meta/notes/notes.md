@@ -218,7 +218,7 @@ class Eagle extends Bird { /* ...class code here... */ }
 			* In the simplest terms, encapsulation has to do with making a code implementation "hidden" from other users, in the sense that they don't have to know how my code works in order to "consume" the code.
 
 		* Abstraction:
-			```
+```
 			Abstraction is all about writing code in a way that will make it more generalized.
 
 The concepts of encapsulation and abstraction are often misunderstood because their differences can feel blurry.
@@ -232,7 +232,7 @@ Encapsulation is about you not having access to, or not being concerned with, ho
 While both the encapsulation and abstraction are important concepts in OOP, it requires more experience with programming in general to really delve into this topic.
 
 For now, it's enough to be aware of their existence in OOP.
-			```
+```
 
 		* Polymorphism:
 			* Polymorphism is a word derived from the Greek language meaning "multiple forms". An alternative translation might be: "something that can take on many shapes".

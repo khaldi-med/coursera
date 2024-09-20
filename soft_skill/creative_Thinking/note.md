@@ -14,14 +14,15 @@ These levels account for modest, everyday changes, through to grand paradigm-shi
 
 * **Big "C" creativity** goes beyond the everyday problem solving, where humankind has made giant leaps in, for example, literature and academia where evidence of grand creativity can be found. These milestones can be embodied or represented by objects, be it the spaceship that took the first person to the moon, or a painting that provoked a new movement of thoughts and techniques.
 
-* Top 6 Brainstorming Techniques
-Let's start with Brainstorming. The aim of this tool is not to produce inventions for fully developed products, instead, it is used to assist with the generation of ideas. This can be done at any stage of the problem-solving process but tends to focus on problem exploration, idea generation, and concept evaluation.
+### Top 6 Brainstorming Techniques
+    
+    * Let's start with Brainstorming. The aim of this tool is not to produce inventions for fully developed products, instead, it is used to assist with the generation of ideas. This can be done at any stage of the problem-solving process but tends to focus on problem exploration, idea generation, and concept evaluation.
 
 * Brainstorming is a well-known activity which involves a multi-disciplinary group of people to solve the stated problem. Yet the rules and types of brainstorming may not be as familiar. Learning and applying the rules and types of brainstorming can make the sessions dramatically more productive.
 
 * The various types of brainstorming which you will be learning about during this week, include:
     
-    * **Flipchart:**
+    * **1. Flipchart:**
         - The Flip Chart approach serves as a great entry activity to a brainstorming session. For example, it can be used to determine the important areas of a problem. The group can "Flip Chart" brainstorm these for several minutes.     
         
         1. During preparation, ensure that the brief defines the problems and that people, pens and drawing surface are available
@@ -40,7 +41,7 @@ Let's start with Brainstorming. The aim of this tool is not to produce invention
 
         8. Re-review the material to see if additional ideas are inspired by (for instance, a combination of two of the suggestions).
 
-    * Post-its:
+    * 2. Post-its:
         - They are a great size to focus and record a single idea. As Post-its can be peeled off a surface and re-applied several times, the ideas can then be rearranged and ordered into groups of similar ideas. The approach encourages a group to come together and generate ideas simultaneously. 
         
         1. Define the brief
@@ -59,7 +60,7 @@ Let's start with Brainstorming. The aim of this tool is not to produce invention
 
         8. Invite the group to categorize the ideas by rearranging the postits 
 
-    * Brainwriting: 
+    * 3. Brainwriting: 
         - Brainwriting is a series of techniques developed by Horst Geschka at the Batelle Institute in Frankfurt (Geschka, 1993). Most of the session is done in silence as it encourages a group of participants to develop ideas in parallel.
         1. Define and introduce the brief
 
@@ -77,7 +78,7 @@ Let's start with Brainstorming. The aim of this tool is not to produce invention
 
         8. Review the ideas generated collectively by asking participants to share their favourite ideas
 
-	* Alphabet:
+	* 4. Alphabet:
         - As the name suggests, in an Alphabet brainstorming session, participants are invited to work through the alphabet letter by letter. With one set parameter, the letter itself, it inspires a wide range of ideas. It also encourages the creative use of the letter to form a sentence or phrase, rather than an idea that is one or two words. 
         
         1. Define the brief
@@ -90,7 +91,7 @@ Let's start with Brainstorming. The aim of this tool is not to produce invention
 
         5. Review the ideas generated collectively by asking participants to comment on their favourite ideas.
  
-	* Grid:
+	* 5. Grid:
         - During Grid brainstorming, a 3 by 3 grid is recommended. The number of columns dictates the number of ideas needed to initiate the process. The number of rows dictates how many times the idea is passed on and developed. By the end of a session, many ideas have been generated and developed by using the inspiration of previously generated ideas.
 
         1. Provide group members with a grid 
@@ -104,7 +105,5 @@ Let's start with Brainstorming. The aim of this tool is not to produce invention
 
         > For an effective grid brainstorming session, participants should be patient and allow each person to complete the row of ideas before passing on the page. 
 
-	*  Circle brainstorming:
-        - 
+    * 6. Circle brainstorming.
 
-    
