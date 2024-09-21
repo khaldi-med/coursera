@@ -257,6 +257,15 @@ var myDog = new Animal()
 console.log (Animal)
 ```
 
+### Constructors
+
+* Constructor functions, commonly referred to as just "constructors", are special functions that allow us to build instances of these built-in native objects. All the constructors are capitalized.
+
+* The most common use case of new is to use it with one of the built-in object types.
+
+* Note that using constructor functions on all built-in objects is sometimes not the best approach. This is especially true for object constructors of primitive types, namely: String, Number, and Boolean.
+
+* 
 
 
 
