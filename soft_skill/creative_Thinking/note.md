@@ -107,3 +107,33 @@ These levels account for modest, everyday changes, through to grand paradigm-shi
 
     * 6. Circle brainstorming.
 
+
+### Thinking styles
+    
+* **Diversity:** is an essential ingredient to creativity. When we experience a new culture we learn new ways of approaching and doing things, diversifying our thinking. So if we are looking to generate more creative ideas to a problem, one way we can achieve this is to diversify our thinking.
+
+* divergent thinking, convergent thinking, design thinking, systems thinking, analytical thinking, critical thinking, analogical reasoning, inductive reasoning, and deductive reasoning.
+
+* creative thinking, including brainstorming, leveraging personal knowledge and experience, moving into new territory, experimenting, exploring connections and relationships, combining opposites, and regularly re-examining and revising ideas.
+
+* Design thinking is a mindset and approach used in business and education.
+
+* It involves exploring new concepts and directions for business and enterprise.
+
+* Design thinking helps generate solutions that address the needs of users and stakeholders.
+
+* It includes processes such as discovery, envisioning, experimentation, and integration.
+
+* Design thinking can be applied to physical products, services, and non-physical entities like organizations.
+
+* It involves activities like tolerating ambiguity, seeing the big picture, making decisions, teamwork, and communication.
+
+* The approach includes phases of iteration, ideation, prototyping, testing, problem-solving, and implementation.
+
+* Design thinking is a valuable tool for stimulating innovation and driving organizational change.
+
+### Morphological Analysis
+
+> Is an idea-generating tool that approaches problems from lots of different angles whilst provoking many new ways of creative thinking. 
+
+
