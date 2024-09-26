@@ -265,10 +265,32 @@ console.log (Animal)
 
 * Note that using constructor functions on all built-in objects is sometimes not the best approach. This is especially true for object constructors of primitive types, namely: String, Number, and Boolean.
 
-* 
+* if you compare new String('plum') === new String('plum'), you'll get back false, while "plum" === "plum" returns true. You're getting the false when comparing objects because it is not the values that you pass to the constructor that are being compared, but rather the memory location where objects are saved.
 
+* Besides not using constructors to build object versions of primitives, you are better off not using constructors when constructing plain, regular objects.
 
+* Instead of new Object, you should stick to the object literal syntax: {}.
 
+* A RegExp object is another built-in object in JavaScript. It's used to pattern-match strings using what's known as "Regular Expressions". Regular Expressions exist in many languages, not just JavaScript.
+
+* In JavaScript, you can built an instance of the RegExp constructor using new RegExp. 
+
+* Alternatively, you can use a pattern literal instead of RegExp. Here's an example of using /d/ as a pattern literal, passed-in as an argument to the match method on a string. 
+
+*  inheritance in JavaScript is based around the prototype object. All objects that are built from the prototype share the same functionality.
+
+* The constructor will be used to build properties on the future object instance of the Train class.
+
+* To inherit from one class to a new sub-class, JavaScript provides the extends keyword.
+
+* In JavaScript classes, super is used to specify what property gets inherited from the super-class in the sub-class.
+
+* HighSpeedTrain.prototype.__proto__
+
+* There are two keywords that are essential for OOP with classes in JavaScript.
+    * These keywords are **extends and super.**
+        * The extends keyword allows me to inherit from an existing class.
+        * The super keyword allows me to "borrow" functionality from a super-class, in a sub-class. 
 
 
 
