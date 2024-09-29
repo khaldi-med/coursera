@@ -137,3 +137,20 @@ These levels account for modest, everyday changes, through to grand paradigm-shi
 > Is an idea-generating tool that approaches problems from lots of different angles whilst provoking many new ways of creative thinking. 
 
 
+### TRIZ - the Theory of Inventive Problem Solving
+
+* This week you will be introduced to TRIZ which is a technology-based, systematic methodology that aims to overcome "psychological inertia" and generate a large range of solution concepts. With the use of a contradiction matrix, it provides a framework and toolbox for systematic, inventive problem solving.
+
+* TRIZ (Altshuller, 1984) is a Russian acronym for Teoria Resheneya Isobretatelskih Zadach, which can be translated to the Theory of Inventive Problem Solving.
+
+* TRIZ was produced through years of development and therefore represents a short-cut to experience because it is a method of transforming a specific problem into a general problem. By abstracting the problem, you can identify solutions that have previously been successful in solving the general problem, and then apply these principles to your specific problem.
+
+* The TRIZ process is clearly illustrated as flow: |specific problem|-> Abstraction -> |General problem|-> |general solutions|-> Analogy -> |solution to specific problem|
+
+* Altshuller and his collaborators identified 40 principles that can be used to resolve contradictions fully, without compromise.
+    * Examples of these principles include:
+        - Segmentation: dividing an object into smaller independent parts, making an object sectional, increasing the degree of objects divisibility or fragmentation.
+        - Asymmetry: using asymmetry to produce interesting and engaging styles.
+        - Prior Counteraction: performing a mitigating task in advance to prevent or reduce the impact of an event. 
+
+* 
