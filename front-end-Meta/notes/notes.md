@@ -301,11 +301,20 @@ console.log (Animal)
 
 * The Object.entries() method. which returns an array listing both the keys and the values.  
 
+* `Hello, World!` -> example of a template string, which is also known as a template literal.
 
+* Some additional use cases of template literals are nested template literals and tagged templates. 
 
+* The **Set** constructor can, for example, accept an array. This means that we can use it to quickly filter an array for unique members.
 
+```
+const repetitiveFruits = ['apple','pear','apple','pear','plum', 'apple'];
+const uniqueFruits = new Set(repetitiveFruits);
+console.log(uniqueFruits);
 
-
+//output
+{'apple', 'pear', 'plum'}
+```
 
 
 
