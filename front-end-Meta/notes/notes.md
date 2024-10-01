@@ -182,7 +182,7 @@ console.log(virtualPet.sleepy) // false
             - calling a Browser API (even the console itself!) 
             - calling Math.random() - since the value cannot be reliably repeated
 
-### Object Oriented Programming principles
+## Object Oriented Programming principles
 
 * The Benefits of OOP:
 	- There are many benefits to using the object-oriented programming (OOP) paradigm.
@@ -195,7 +195,7 @@ console.log(virtualPet.sleepy) // false
 
 	- Makes your code reusable.
 
-#### The Principles of OOP
+### The Principles of OOP
 	- The four fundamental OOP principles are:
 		* Inheritance:
 			- Inheritance is one of the foundations of object-oriented programming.
@@ -293,8 +293,13 @@ console.log (Animal)
         * The super keyword allows me to "borrow" functionality from a super-class, in a sub-class. 
 
 
+### Built-in methods
 
+* The Object.keys() method receives an object as its parameter. The returned value is an array of strings
 
+* The Object.values() method
+
+* The Object.entries() method. which returns an array listing both the keys and the values.  
 
 
 
