@@ -153,4 +153,21 @@ These levels account for modest, everyday changes, through to grand paradigm-shi
         - Asymmetry: using asymmetry to produce interesting and engaging styles.
         - Prior Counteraction: performing a mitigating task in advance to prevent or reduce the impact of an event. 
 
-* 
+* The concept of contradiction is central to TRIZ. The contradiction matrix indicates the most useful principles to be used to solve the contradiction between the parameter you are improving, and the parameter which worsens as a result of this improvement.  
+
+
+#### SCAMPER
+
+* It is a memorable acronym where each letter reminds us of a word or phrase to provoke and inspire related ideas.
+    * SCAMPER stands for:
+        * Substitute 
+        * Combine 
+        * Adapt 
+        * Magnify/ Minify/ Modify 
+        * Put to other uses 
+        * Eliminate 
+        * Reverse/ Rearrange 
+
+
+
+
