@@ -315,7 +315,14 @@ console.log(uniqueFruits);
 //output
 {'apple', 'pear', 'plum'}
 ```
+### Testing 
 
+> npm install jest --save-dev
 
+>  jest-testing
 
-
+```
+"scripts": {
+    "test": "jest"
+  },
+```
